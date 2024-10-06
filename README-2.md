@@ -6,7 +6,7 @@
 
 {Main objectives for this program: practice receiving, converting,and splicing user input. Write and call functions, including recursive ones. Set various kinds of loops.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/zULtubnsVkw)
 
 # Development Environment
 
@@ -28,4 +28,4 @@
 # Future Work
 
 - Expand the fibonacci function. It shouldn't be this slow. Clearly my process is inefficient. 
-- Recapitalize the shuffled word.
+- Add to the shuffle function to recapitalize the shuffled words.
